@@ -11,7 +11,7 @@ function toggleMode() {
       "Foto de Rian Ribeiro com blusa preta e iluminaçao laranja"
     )
   } else {
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/Avatar.png")
     img.setAttribute(
       "alt",
       "Foto de Rian Ribeiro com blusa preta e iluminação verde"
